@@ -1,0 +1,16 @@
+Information: https://admx.help/?Category=EdgeChromium&Policy=Microsoft.Policies.Edge::ExtensionInstallAllowlist
+
+Install Settings
+-----------------
+<Replace><CmdID>e3f9d46e-6251-4aa0-b9bb-ccb950b8d9f7</CmdID><Item>
+<Target><LocURI>./Device/Vendor/MSFT/Policy/Config/Edge~Policy~microsoft_edge~Extensions/ExtensionInstallAllowlist</LocURI></Target>
+<Data><![CDATA[<enabled/><data id="ExtensionInstallAllowlistDesc" value="1&#xF000;ikaoafechdeidffgniffdhdckeclcdhf&#xF000;2&#xF000;aodjmnfhjibkcdimpodiifdjnnncaafh&#xF000;3&#xF000;lojdmgdchjcfnmkmodggbaafecagllnh&#xF000;4&#xF000;lnkgcmpjkkkeffambkllliefdpjdklmi&#xF000;5&#xF000;cknbjckicenodbiaejbmkjhldffonggp&#xF000;6&#xF000;mgknkgnenlhghpfpdcohmgiejlcaapih&#xF000;7&#xF000;pbjjdhghffpemcglcadejmkcpnpmlklh&#xF000;8&#xF000;ffhabonelknmejmdnekedmijlhebpcio&#xF000;9&#xF000;aabcgdmkeabbnleenpncegpcngjpnjkc&#xF000;10&#xF000;liecbddmkiiihnedobmlmillhodjkdmb&#xF000;11&#xF000;nnpljppamoaalgkieeciijbcccohlpoh&#xF000;12&#xF000;ikbablmmjldhamhcldjjigniffkkjgpo&#xF000;13&#xF000;nlipoenfbbikpbjkfpfillcgkoblgpmj&#xF000;14&#xF000;njpneibpplcgghbjcbfhcdcfigjnaaha&#xF000;15&#xF000;oifijhaokejakekmnjmphonojcfkpbbh&#xF000;16&#xF000;daejfbkjipkgidckemjjafiomfeabemo&#xF000;17&#xF000;egdaiaihbdoiibopledjahjaihbmjhdj&#xF000;18&#xF000;fjccjnfkdkdmjohojoggodkigkjkkjhl&#xF000;19&#xF000;dhdgffkkebhmkfjojejmpbldmpobfkfo&#xF000;20&#xF000;niaoghengfohplclhbjnjheodgkejpih&#xF000;21&#xF000;phoidlklenidapnijkabnfdgmadlcmjo&#xF000;22&#xF000;kfpagbkabmedcpddngpcnlbkldcfkmid&#xF000;23&#xF000;dphoaaiomekdhacmfoblfblmncpnbahm&#xF000;24&#xF000;ncoafaeidnkeafiehpkfoeklhajkpgij&#xF000;25&#xF000;hokifickgkhplphjiodbggjmoafhignh&#xF000;26&#xF000;nhppiemcomgngbgdeffdgkhnkjlgpcdi&#xF000;27&#xF000;efaidnbmnnnibpcajpcglclefindmkaj&#xF000;28&#xF000;acallcpknnnjahhhapgkajgnkfencieh&#xF000;29&#xF000;ocemkolpnamjcacndljdfmhlpcaoipji&#xF000;30&#xF000;lnkgcmpjkkkeffambkllliefdpjdklmi&#xF000;31&#xF000;gaaceiggkkiffbfdpmfapegoiohkiipl&#xF000;32&#xF000;odfafepnkmbhccpbejgmiehpchacaeak&#xF000;33&#xF000;gmgoamodcdcjnbaobigkjelfplakmdhh&#xF000;34&#xF000;cchfigjcpjmclmmphipdkeocklpnjecm&#xF000;35&#xF000;ahlnecfloencbkpfnpljbojmjkfgnmdc&#xF000;36&#xF000;cjpalhdlnbpafiamejdnhcphjbkeiagm&#xF000;37&#xF000;gighmmpiobklfepjocnamgkkbiglidom&#xF000;38&#xF000;cfhdojbkjhnklbpkdaibdccddilifddb&#xF000;39&#xF000;kgjfgplpablkjnlkjmjdecgdpfankdle&#xF000;40&#xF000;nhppiemcomgngbgdeffdgkhnkjlgpcdi&#xF000;41&#xF000;efaidnbmnnnibpcajpcglclefindmkaj&#xF000;42&#xF000;acallcpknnnjahhhapgkajgnkfencieh&#xF000;43&#xF000;ocemkolpnamjcacndljdfmhlpcaoipji"/>]]></Data>
+</Item></Replace>
+
+
+Remove Settings
+----------------
+<Delete><CmdID>e3f9d46e-6251-4aa0-b9bb-ccb950b8d9f7</CmdID><Item>
+<Target><LocURI>./Device/Vendor/MSFT/Policy/Config/Edge~Policy~microsoft_edge~Extensions/ExtensionInstallAllowlist</LocURI></Target>
+<Data></Data>
+</Item></Delete>

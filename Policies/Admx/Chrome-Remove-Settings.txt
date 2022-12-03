@@ -1,0 +1,6 @@
+<Delete><CmdID>1</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/ChromeAdmx</LocURI></Target></Item></Delete>
+<Delete><CmdID>2</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/ChromeUASwitcherAdmx</LocURI></Target></Item></Delete>
+<Delete><CmdID>3</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/googleAdmx</LocURI></Target></Item></Delete>
+<Delete><CmdID>4</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/GoogleUpdateAdmx</LocURI></Target></Item></Delete>
+<Delete><CmdID>5</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/LegacyBrowserSupportAdmx</LocURI></Target></Item></Delete>
+<Delete><CmdID>6</CmdID><Item><Meta><Format>chr</Format><Type>text/plain</Type></Meta><Target><LocURI>./Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/CHROME/Policy/PasswordAlertAdmx</LocURI></Target></Item></Delete>

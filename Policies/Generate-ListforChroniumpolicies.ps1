@@ -251,11 +251,12 @@ $string = $string.Substring(0, $string.Length - 8) #Remove the last "&#xF000;" 8
 # Set the BrowserPath
 if ($Browser -eq 'Edge') {
     [string]$BrowserPath = 'Edge~Policy~microsoft_edge'
-    [string]$Url = 'https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::' + $Settings
+    [string]$Url = 'https://admx.help/?Category=EdgeChromium&Policy=Microsoft.Policies.Edge::' + $Settings
+    
 }
 elseif ($Browser -eq 'Chrome') {
     [string]$BrowserPath = 'Chrome~Policy~googlechrome'
-    [string]$Url = 'https://admx.help/?Category=EdgeChromium&Policy=Microsoft.Policies.Edge::' + $Settings
+    [string]$Url = 'https://admx.help/?Category=Chrome&Policy=Google.Policies.Chrome::' + $Settings
 }
 else {
     $string | Out-File -FilePath $Outfile -Encoding utf8 -Force -NoClobber -NoNewline
